@@ -2,6 +2,7 @@
 A client server project, which is a simple pass the ball game, with a text based UI. The main focus of this project was multi-threaded programming.
 
 ### How to run
+- Open the Assignment1_cs solution in Visual Studio.
 - Run the Server project first, and wait for it to say "Waiting for incoming connections...".
 - Once a server is up and running, Clients can begin to join. To add a client/player to the game, run the Client project.
 - Once the client has been assigned a player ID, you can then begin to play.
